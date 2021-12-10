@@ -1,5 +1,5 @@
 # baseVite
-Base Template for vanilla Javascript using [vite build tool](https://vitejs.dev/)
+Base Template for vanilla Javascript using the [**Vite**](https://vitejs.dev/) build tool.
 #### To use starting a new project:
 ```Shell
 npx degit gbruneau/baseVite myNewApplicationName
@@ -36,6 +36,7 @@ export default {
    ┃   ┣━ style.css
    ┃   ┣━ index.css
    ┃   ┗━ main.js
+   ┣━ .gitignore
    ┣━ vite.config.js
    ┣━ package.json
    ┗━ README.md
