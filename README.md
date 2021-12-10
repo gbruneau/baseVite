@@ -23,6 +23,7 @@ export default {
   }
 ```
 #### Structure
+this is the structure given after the first build.
 ```
 𝐦𝐲𝐍𝐞𝐰𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐍𝐚𝐦𝐞/
    ┣━ 𝐝𝐢𝐬𝐭/
