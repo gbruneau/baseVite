@@ -1,13 +1,14 @@
 # baseVite
 Base Template for vanilla Javascript using the [**Vite**](https://vitejs.dev/) build tool.
-#### To use starting a new project:
+#### To star a new project
 ```Shell
 npx degit gbruneau/baseVite myNewApplicationName
 cd myNewApplicationName
 npm install
 ``` 
 #### Before build
-Change the file `vite.config.js` to set the output directory (`outDir`) properly. 
+In the file `vite.config.js` , rename the output directory (`outDir`)  
+from `BaseVite` to your application name (`myNewApplicationName`). 
 ```JavaScript
 // vite.config.js
 export default {
@@ -23,7 +24,7 @@ export default {
   }
 ```
 #### Structure
-this is the structure given after the first build.
+This is the structure given after build.
 ```
 𝐦𝐲𝐍𝐞𝐰𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐍𝐚𝐦𝐞/
    ┣━ 𝐝𝐢𝐬𝐭/
