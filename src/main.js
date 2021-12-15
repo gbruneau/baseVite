@@ -1,18 +1,14 @@
+import $ from "jquery";
 import './style.css'
 
 function calcResult() {
-  var a = document.getElementById('a').value;
-  var b = document.getElementById('b').value;
+  var a = $("#a").val();
+  var b =  $("#b").val();
   var r = parseFloat(a) + parseFloat(b);
-  document.getElementById("r").innerHTML =  r;
+  $("#r").text(r);
 }
 
-
-document.getElementById('a').addEventListener("change",function(){
-  calcResult();
-});
-
-document.getElementById('b').addEventListener("change",function(){
+$("#a,#b").on("change",function(){
   calcResult();
 });
 
