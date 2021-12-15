@@ -1,8 +1,8 @@
-# baseVite
+# baseVite-Vanille
 Base Template for vanilla Javascript using the [**Vite**](https://vitejs.dev/) build tool.
 #### To star a new project
 ```Shell
-npx degit gbruneau/baseVite myNewApplicationName
+npx degit gbruneau/baseVite-Vanille myNewApplicationName
 cd myNewApplicationName
 npm install
 ``` 
