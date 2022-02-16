@@ -10,7 +10,7 @@ npm install
 Result
 ``` 
 ┣━ myDevelopmentFolder/
-    ┗━ myNewApplicationName/
+┃   ┗━ myNewApplicationName/
 ``` 
 
 
