@@ -35,6 +35,7 @@ This is the structure given after build.
    ┣━ 𝐧𝐨𝐝𝐞_𝐦𝐨𝐝𝐮𝐥𝐞𝐬/
    ┣━ 𝐬𝐫𝐜/
    ┃   ┣━ 𝐢𝐦𝐚𝐠𝐞/
+   ┃   ┣━ 𝐩𝐮𝐛𝐥𝐢𝐜/
    ┃   ┣━ index.css
    ┃   ┣━ main.js
    ┃   ┗━ style.css
