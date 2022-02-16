@@ -1,4 +1,4 @@
-# src/public/
+# `src/public/`
 
 Contient des objets accédés dynamiquement.
 
