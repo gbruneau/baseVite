@@ -13,7 +13,7 @@ Référer au contenu de `public` depuis `/` et non pas `/public`.
 Dans la strcuture suivante
 ```
 𝐬𝐫𝐜/
- ┣━ 𝐢𝐦𝐚𝐠𝐞/
+ ┣━ 𝐢𝐦𝐚𝐠𝐞𝐬/
  ┗━ 𝐩𝐮𝐛𝐥𝐢𝐜/myData.csv
 ```
 
