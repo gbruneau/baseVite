@@ -2,10 +2,19 @@
 Base Template for Javascript/jQuery using the [**Vite**](https://vitejs.dev/) build tool.
 #### To star a new project
 ```Shell
+cd myDevemopmentFolde
 npx degit gbruneau/baseVite myNewApplicationName
 cd myNewApplicationName
 npm install
 ``` 
+Result
+``` 
+┣━ myDevelopmentFolder/
+    ┗━ myNewApplicationName/
+``` 
+
+
+
 #### Before build
 In the file `vite.config.js` , rename the output directory (`outDir`)  
 from `BaseVite` to your application name (`myNewApplicationName`). 
