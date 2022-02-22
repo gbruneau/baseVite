@@ -2,7 +2,7 @@
 Base Template for Javascript/jQuery using the [**Vite**](https://vitejs.dev/) build tool.
 #### To star a new project
 ```Shell
-cd myDevemopmentFolde
+cd myDevemopmentFolder
 npx degit gbruneau/baseVite myNewApplicationName
 cd myNewApplicationName
 npm install
