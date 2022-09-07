@@ -38,16 +38,17 @@ This is the structure given after build.
 𝐦𝐲𝐍𝐞𝐰𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐍𝐚𝐦𝐞/
    ┣━ 𝐝𝐢𝐬𝐭/
    ┃   ┗━ 𝐦𝐲𝐍𝐞𝐰𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐍𝐚𝐦𝐞/
-   ┃         ┣━ 𝐚𝐬𝐬𝐞𝐭𝐬/
-   ┃         ┣━ index.html
-   ┃         ┗━ manifest.json
+   ┃         ┣━ 𝐚𝐬𝐬𝐞𝐭𝐬/          Distribution Images, css, js 
+   ┃         ┣━ index.html      Main distribution htlm page
+   ┃         ┗━ manifest.json   Distribution files index
    ┣━ 𝐧𝐨𝐝𝐞_𝐦𝐨𝐝𝐮𝐥𝐞𝐬/
    ┣━ 𝐬𝐫𝐜/
-   ┃   ┣━ 𝐢𝐦𝐚𝐠𝐞𝐬/
-   ┃   ┣━ 𝐩𝐮𝐛𝐥𝐢𝐜/
+   ┃   ┣━ 𝐢𝐦𝐚𝐠𝐞𝐬/               Source images
+   ┃   ┣━ 𝐩𝐮𝐛𝐥𝐢𝐜/                Source fichiers acceder dynamiquement
    ┃   ┣━ index.css
    ┃   ┣━ main.js
-   ┃   ┗━ style.css
+   ┃   ┣━ style.css
+   ┃   ┗━ version.json
    ┣━ .gitignore
    ┣━ package.json
    ┣━ README.md
