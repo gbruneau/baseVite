@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --emptyOutDir",
+    "build": "date +%Y%m%d.%H%M>src/version.json;vite build  --emptyOutDir",
     "preview": "vite preview"
   },
   "devDependencies": {
