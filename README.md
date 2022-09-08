@@ -45,10 +45,10 @@ This is the structure given after build.
    ┣━ 𝐬𝐫𝐜/
    ┃   ┣━ 𝐢𝐦𝐚𝐠𝐞𝐬/               Source images
    ┃   ┣━ 𝐩𝐮𝐛𝐥𝐢𝐜/                Source fichiers acceder dynamiquement
-   ┃   ┣━ index.css
+   ┃   ┣━ index.css            
    ┃   ┣━ main.js
    ┃   ┣━ style.css
-   ┃   ┗━ version.json
+   ┃   ┗━ version.json         No du dernier build (date.heure)
    ┣━ .gitignore
    ┣━ package.json
    ┣━ README.md
