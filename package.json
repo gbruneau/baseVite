@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "jquery": "^3.6.0",
-    "jquery-ui-bundle": "^1.12.1-migrate",
+    "jquery-ui-bundle": "^1.12.1-migrate"
   }
 }
