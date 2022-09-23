@@ -1,19 +1,22 @@
 import $ from "jquery";
-import './style.css'
+import './style.css';
+import '../node_modules/jquery-ui-bundle/jquery-ui.min.css'
+
 import APPbuild from "./version.json";
 
-function calcResult() {
-  var a = $("#a").val();
-  var b =  $("#b").val();
-  var r = parseFloat(a) + parseFloat(b);
-  $("#r").text(r);
-}
+(async () => {
+    window.jQuery=$;
+    await import("jquery-ui-bundle");
+ 
+   /* Main code start here */  
+   
+    $( "#tabsContainer" ).tabs();  
+    $(".toolbar button").button();
+   
+    
+    $("#btSave").on('click',function(){
+      alert("Save me");
+    });
 
-$("#a,#b").on("change",function(){
-  calcResult();
-});
 
-
-$("#buildNo").text(APPbuild);
-
-calcResult();
+})();
