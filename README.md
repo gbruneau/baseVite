@@ -1,5 +1,10 @@
 # baseVite
-Base Template for Javascript/jQuery/jQueryUI using the [**Vite**](https://vitejs.dev/) build tool.
+Base Template for 
+- Javascript
+- jQuery
+- jQueryUI 
+
+using the [**Vite**](https://vitejs.dev/) framework.
 #### To star a new project
 ```Shell
 cd myDevemopmentFolder
